@@ -5,8 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-💻 Backend developer focused on building clean, secure and scalable APIs.  
-🔐 Interested in Web Security (AppSec) and secure system design.  
+💻 Backend developer focused on building clean, secure and scalable APIs.
 🚀 Currently learning Java & Spring Boot to level up my backend skills.
 
 - 📫 Social links: [LinkedIn](URL_DE_TU_LINKEDIN) | [Portfolio/Web](URL_DE_TU_WEB)
@@ -21,6 +20,10 @@
 ---
 
 ### 🛠 Tech Stack
+
+#### Languages
+![TypeScript](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 🖥️ Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
