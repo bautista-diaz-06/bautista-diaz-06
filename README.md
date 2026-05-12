@@ -22,8 +22,8 @@
 ### 🛠 Tech Stack
 
 #### Languages
-![TypeScript](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### 🖥️ Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,7 +42,7 @@
 ---
 
 ### 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautista-diaz-06&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bautista-diaz-06&layout=compact)
 
 <a href="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge" alt="Profile Views">
