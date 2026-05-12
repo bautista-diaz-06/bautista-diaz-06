@@ -47,9 +47,9 @@
 ---
 
 ### 📊 Stats
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bautista-diaz-06&layout=compact&theme=midnight-purple)
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bautista-diaz-06&show_icons=true&theme=midnight-purple)
-![GitHub Streak](https://streak-stats.demolab.com?user=bautista-diaz-06&theme=midnight-purple)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bautista-diaz-06&layout=compact&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bautista-diaz-06&show_icons=true&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bautista-diaz-06&theme=tokyo-night)
 
 <a href="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge" alt="Profile Views">
