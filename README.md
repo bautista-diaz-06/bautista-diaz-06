@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 What I’m working on
-- Building backend projects with **Node.js & Express**
+- Building backend projects with **Node.js & TypeScript and Java & Spring Boot**
 - Improving API security (JWT, auth flows, best practices)
 - Learning **Java + Spring Boot**
 
@@ -50,7 +50,6 @@
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bautista-diaz-06&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bautista-diaz-06&show_icons=true&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bautista-diaz-06&theme=tokyonight)
 
 <a href="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge" alt="Profile Views">
