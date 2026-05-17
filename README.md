@@ -6,16 +6,16 @@
 </h1>
 
 💻 Backend developer focused on scalable APIs, security and JVM/backend ecosystems.
-🚀 Currently learning Java & Spring Boot to level up my backend skills.
+🚀 Currently focused on Java & Spring Boot, building production-ready applications.
+🐳 Exploring containerization with Docker — Dockerfile & Compose basics.
 
-- 📫 Social links: [LinkedIn](linkedin.com/in/bautista-díaz-743613373) | [Portfolio/Web](URL_DE_TU_WEB)
+- 📫 Social links: [LinkedIn](https://linkedin.com/in/bautista-díaz-743613373) | [Portfolio/Web](URL_DE_TU_WEB)
 
 ---
 
 ### 🧠 What I’m working on
-- Building backend projects with **Node.js & TypeScript and Java & Spring Boot**
+- Currently focused on building production-ready applications with **Java & Spring Boot**, while working on **Node.js & TypeScript** projects
 - Improving API security (JWT, auth flows, best practices)
-- Learning **Java + Spring Boot**
 
 ---
 
@@ -29,7 +29,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
