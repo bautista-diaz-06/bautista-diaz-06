@@ -1,0 +1,2 @@
+Dockerfile linguist-detectable=true
+*compose*.y*ml linguist-detectable=true linguist-language=Dockerfile
