@@ -51,7 +51,7 @@
 
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautista-diaz-06&theme=tokyonight&hide_border=true&layout=compact&hide=css,html,python&exclude_repo=FastifyAPI_Learn,Notepad,react-api-components,pos_nestjs_react,nestjs-api-auth)
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bautista-diaz-06&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bautista-diaz-06&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <a href="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge" alt="Profile Views">
