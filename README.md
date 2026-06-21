@@ -5,37 +5,40 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-💻 Backend developer focused on scalable APIs, security and JVM/backend ecosystems.
-🚀 Currently focused on Java & Spring Boot, building production-ready applications.
-🐳 Exploring containerization with Docker — Dockerfile & Compose basics.
+💻 Backend developer focused on Java and API development.
+
+🚀 Building backend applications with Spring Boot, PostgreSQL and JPA/Hibernate.
+
+🐳 Learning Docker and containerized development workflows.
+
+💡 Interested in cloud computing, Linux and DevOps practices.
+
 
 - 📫 Social links: [LinkedIn](https://linkedin.com/in/bautista-díaz-743613373) | [Portfolio/Web](URL_DE_TU_WEB)
 
 ---
 
-### 🧠 What I’m working on
-- Currently focused on building production-ready applications with **Java & Spring Boot**, while working on **Node.js & TypeScript** projects
-- Improving API security (JWT, auth flows, best practices)
+### 🧠 What I'm working on
+- Building REST APIs with Java & Spring Boot
+- Working with PostgreSQL and Spring Data JPA
+- Applying backend development best practices
+- Containerizing applications with Docker and Docker Compose
+- Improving Git workflows and collaborative development
 
 ---
 
 ### 🛠 Tech Stack
 
 #### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### ⚙️ Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🎨 Frontend (basic API consumption)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,7 +50,7 @@
 ---
 
 ### 📊 Stats
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bautista-diaz-06&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautista-diaz-06&theme=tokyonight&hide_border=true&layout=compact&hide=css,html,python&exclude_repo=FastifyAPI_Learn,Notepad,react-api-components,pos_nestjs_react,nestjs-api-auth)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bautista-diaz-06&show_icons=true&theme=tokyonight)
 
 <a href="https://komarev.com/ghpvc/?username=bautista-diaz-06&style=for-the-badge">
